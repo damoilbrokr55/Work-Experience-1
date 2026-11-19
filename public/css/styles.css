@@ -1,5 +1,13 @@
 /* Calico Media marketing site */
 
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+
 :root {
   --ink: #1f1a17;
   --ink-soft: #5b524c;
@@ -406,7 +414,7 @@ img {
 
 .playbook-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 28px;
 }
 
