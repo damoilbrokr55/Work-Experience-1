@@ -1,9 +1,8 @@
 <!-- PR title must match the ticket title exactly. See CONTRIBUTING.md. -->
 
-## What changed
 
-<!-- What did you change, and why? Point the reviewer at anything non-obvious. -->
 
+<!-- What did you change, and why? Point
 ## Before
 
 <!-- Screenshots for visual changes, numbers for performance changes, or the behaviour you saw. -->
